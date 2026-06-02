@@ -5,17 +5,6 @@
   I mainly work with TypeScript, Node.js, NestJS, MongoDB, and modern tools to build clear, maintainable, and well-documented services.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pablofedericosantillan&label=Profile%20views&color=ff5c8a&style=flat" alt="Profile views" />
-</p>
-
-### 📈 My GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pablofedericosantillan&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="Pablo Santillan GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofedericosantillan&layout=compact&theme=radical&hide_border=false" alt="Most used languages by Pablo Santillan" />
-</p>
-
 ### 🛠️ Technologies and tools I use the most
 
 <p align="left">
