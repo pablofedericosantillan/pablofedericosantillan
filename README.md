@@ -1,45 +1,48 @@
-<h2 align="left">Buenas! Soy Pablo Santillan 👋</h2>
+<h2 align="left">Hi! I'm Pablo Santillan 👋</h2>
 
 <p align="left">
-  ⚡ Desarrollador de software enfocado en backend, APIs y arquitectura limpia.
-  Trabajo principalmente con TypeScript, Node.js, NestJS, MongoDB y herramientas modernas para construir servicios claros, mantenibles y bien documentados.
+  ⚡ Software developer focused on backend, APIs, and clean architecture.
+  I mainly work with TypeScript, Node.js, NestJS, MongoDB, and modern tools to build clear, maintainable, and well-documented services.
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pablofedericosantillan&label=Profile%20views&color=ff5c8a&style=flat" alt="Profile views" />
 </p>
 
-### 📈 Mis stats en GitHub
+### 📈 My GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pablofedericosantillan&show_icons=true&theme=radical&hide_border=false&rank_icon=github" alt="Pablo Santillan GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofedericosantillan&layout=compact&theme=radical&hide_border=false" alt="Lenguajes mas usados por Pablo Santillan" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofedericosantillan&layout=compact&theme=radical&hide_border=false" alt="Most used languages by Pablo Santillan" />
 </p>
 
-### 🛠️ Tecnologias y herramientas que mas uso
+### 🛠️ Technologies and tools I use the most
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,mongodb,jest,swagger,docker,kubernetes,aws,terraform,git,github,vscode&perline=14" alt="Tecnologias y herramientas" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,mongodb,jest,swagger,docker,kubernetes,aws,terraform,git,github,vscode&perline=14" alt="Technologies and tools" />
 </p>
 
-**Stack principal**
+**Main stack**
 
-- **Lenguajes:** TypeScript, JavaScript
+- **Languages:** TypeScript, JavaScript
 - **Backend:** Node.js, NestJS, Express
-- **Base de datos:** MongoDB
-- **Testing y docs:** Jest, Swagger / OpenAPI
+- **Database:** MongoDB
+- **Testing and docs:** Jest, Swagger / OpenAPI
 - **DevOps:** Docker, Kubernetes, AWS, Terraform
-- **Herramientas:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code
 
-### 🤝 Conectemos en redes
+### 🤝 Let's connect
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/pablo-santillan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Santillan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/pablofedericosantillan">
     <img src="https://img.shields.io/badge/GitHub-pablofedericosantillan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-### 🚀 Proyectos destacados
+### 🚀 Featured projects
 
 <p align="left">
   <a href="https://github.com/pablofedericosantillan/Server-DDD">
@@ -50,9 +53,9 @@
   </a>
 </p>
 
-### 🧩 Sobre lo que construyo
+### 🧩 What I build
 
-- Backend APIs con NestJS, TypeScript y MongoDB
-- Arquitecturas mantenibles, separacion por capas y buenas practicas
-- Documentacion tecnica con Swagger/OpenAPI
-- Automatizacion, contenedores e infraestructura moderna
+- Backend APIs with NestJS, TypeScript, and MongoDB
+- Maintainable architectures, layered separation, and good practices
+- Technical documentation with Swagger / OpenAPI
+- Automation, containers, and modern infrastructure
