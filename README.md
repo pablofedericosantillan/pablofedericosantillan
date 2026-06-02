@@ -2,23 +2,27 @@
 
 <p align="left">
   ⚡ Software developer focused on backend, APIs, and clean architecture.
-  I mainly work with TypeScript, Node.js, NestJS, MongoDB, and modern tools to build clear, maintainable, and well-documented services.
+  I mainly work with TypeScript, Node.js, NestJS, MongoDB, AI workflows, and infrastructure tools to build clear, maintainable, and well-documented services.
 </p>
 
 ### 🛠️ Technologies and tools I use the most
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,mongodb,jest,swagger,docker,kubernetes,aws,terraform,git,github,vscode&perline=14" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,express,mongodb,jest,swagger,docker,kubernetes,aws,terraform,git,github,vscode&perline=16" alt="Technologies and tools" />
 </p>
 
 **Main stack**
 
-- **Languages:** TypeScript, JavaScript
-- **Backend:** Node.js, NestJS, Express
-- **Database:** MongoDB
-- **Testing and docs:** Jest, Swagger / OpenAPI
-- **DevOps:** Docker, Kubernetes, AWS, Terraform
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** TypeScript, JavaScript, Python
+- **Backend:** Node.js, NestJS, Express, REST APIs
+- **Database and ODM:** MongoDB, Mongoose
+- **Validation and data:** Zod, class-validator, class-transformer
+- **API docs:** Swagger, OpenAPI, swagger-jsdoc, swagger-ui-express
+- **Testing:** Jest, Supertest, ts-jest
+- **Logging:** Pino, pino-http, nestjs-pino
+- **AI:** LangChain, LangGraph, OpenAI API, RAG, vector databases
+- **DevOps and cloud:** Docker, Kubernetes, Minikube, AWS, EKS, EC2, Terraform, Argo CD, GitOps
+- **Tooling:** Git, GitHub, VS Code, npm, ESLint, Prettier, SWC, nodemon
 
 ### 🤝 Let's connect
 
@@ -47,4 +51,5 @@
 - Backend APIs with NestJS, TypeScript, and MongoDB
 - Maintainable architectures, layered separation, and good practices
 - Technical documentation with Swagger / OpenAPI
-- Automation, containers, and modern infrastructure
+- AI application experiments with LangChain, LangGraph, and OpenAI API
+- Automation, containers, cloud infrastructure, and GitOps workflows
