@@ -2,18 +2,19 @@
 
 <p align="left">
   ⚡ Software developer focused on backend, APIs, and clean architecture.
-  I mainly work with TypeScript, Node.js, NestJS, MongoDB, AI workflows, and infrastructure tools to build clear, maintainable, and well-documented services.
+  I mainly work with TypeScript, Node.js, NestJS, React, Next.js, MongoDB, AI workflows, and infrastructure tools to build clear, maintainable, and well-documented services.
 </p>
 
 ### 🛠️ Technologies and tools I use the most
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,express,mongodb,jest,swagger,docker,kubernetes,aws,terraform,git,github,vscode&perline=16" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,express,react,nextjs,mongodb,jest,swagger,docker,kubernetes,aws,terraform,git,github,vscode&perline=18" alt="Technologies and tools" />
 </p>
 
 **Main stack**
 
 - **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Next.js
 - **Backend:** Node.js, NestJS, Express, REST APIs
 - **Database and ODM:** MongoDB, Mongoose
 - **Validation and data:** Zod, class-validator, class-transformer
@@ -49,6 +50,7 @@
 ### 🧩 What I build
 
 - Backend APIs with NestJS, TypeScript, and MongoDB
+- Frontend applications with React and Next.js
 - Maintainable architectures, layered separation, and good practices
 - Technical documentation with Swagger / OpenAPI
 - AI application experiments with LangChain, LangGraph, and OpenAI API
