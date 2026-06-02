@@ -23,7 +23,7 @@
 - **Logging:** Pino, pino-http, nestjs-pino
 - **AI:** LangChain, LangGraph, OpenAI API, RAG, vector databases
 - **DevOps and cloud:** Docker, Kubernetes, Minikube, AWS, EKS, EC2, Terraform, Argo CD, GitOps
-- **Tooling:** Git, GitHub, VS Code, npm, ESLint, Prettier, SWC, nodemon
+- **Tooling:** Git, GitHub
 
 ### 🤝 Let's connect
 
