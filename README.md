@@ -36,17 +36,6 @@
   </a>
 </p>
 
-### 🚀 Featured projects
-
-<p align="left">
-  <a href="https://github.com/pablofedericosantillan/Server-DDD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablofedericosantillan&repo=Server-DDD&theme=radical&hide_border=false" alt="Server-DDD" />
-  </a>
-  <a href="https://github.com/pablofedericosantillan/woki-brain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablofedericosantillan&repo=woki-brain&theme=radical&hide_border=false" alt="WokiBrain" />
-  </a>
-</p>
-
 ### 🧩 What I build
 
 - Backend APIs with NestJS, TypeScript, MongoDB, SQL, Mongoose, and Prisma
