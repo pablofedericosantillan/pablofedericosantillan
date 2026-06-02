@@ -1,60 +1,59 @@
-# Hi, I'm Pablo Santillan
+# Buenas! Soy Pablo Santillan 👋
 
-Software developer focused on backend development with TypeScript, Node.js, APIs, and clean architecture.
+⚡ Desarrollador de software enfocado en backend, APIs y arquitectura limpia. Trabajo principalmente con TypeScript, Node.js, NestJS, MongoDB y herramientas modernas para construir servicios claros, mantenibles y bien documentados.
 
-## Main Stack
+## 📈 Mis stats en GitHub
 
-- TypeScript
-- Node.js
-- NestJS
-- Express
-- MongoDB
-- Mongoose
-- Swagger/OpenAPI
-- Jest
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pablofedericosantillan&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="Pablo Santillan GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofedericosantillan&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes mas usados por Pablo Santillan" />
+</p>
 
-## Featured Projects
+## 🛠️ Tecnologias y herramientas que mas uso
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,mongodb,jest,swagger,docker,kubernetes,aws,terraform,git,github,vscode&perline=14" alt="Tecnologias y herramientas" />
+</p>
+
+## 🚀 Proyectos destacados
 
 ### Server-DDD
 
-Backend API built with NestJS, MongoDB, and a Domain-Driven Design inspired structure.
+Backend API con NestJS, MongoDB y una estructura inspirada en Domain-Driven Design.
 
-- Layered architecture with domain, application, infrastructure, and transport modules
-- User creation and paginated user listing
-- Swagger documentation
-- MongoDB repository implementation
+- Arquitectura por capas: dominio, aplicacion, infraestructura y transporte
+- Creacion de usuarios y listado paginado
+- Documentacion con Swagger
+- Repositorio MongoDB
 
-Repository: https://github.com/pablofedericosantillan/Server-DDD
+Repositorio: [pablofedericosantillan/Server-DDD](https://github.com/pablofedericosantillan/Server-DDD)
 
 ### WokiBrain
 
-Booking engine API that finds the best seating option for restaurant parties.
+API de motor de reservas que busca la mejor opcion de mesas para grupos en restaurantes.
 
-- Seat discovery using single tables and nearby table combinations
-- Booking creation with idempotency support
-- Time-window handling
-- Zod validation and Swagger docs
+- Busqueda de mesas individuales y combinaciones cercanas
+- Creacion de reservas con soporte de idempotencia
+- Manejo de ventanas horarias
+- Validacion con Zod y documentacion Swagger
 
-Repository: https://github.com/pablofedericosantillan/woki-brain
+Repositorio: [pablofedericosantillan/woki-brain](https://github.com/pablofedericosantillan/woki-brain)
 
 ### User Info API
 
-NestJS API for user information management.
+API NestJS para gestion de informacion de usuarios.
 
-- User creation and listing
-- Pagination and optional email filtering
-- MongoDB persistence
-- Feature-based NestJS structure
+- Creacion y listado de usuarios
+- Paginacion y filtro opcional por email
+- Persistencia con MongoDB
+- Estructura NestJS por features
 
-Repository: https://github.com/pablofedericosantillan/user-info
+Repositorio: [pablofedericosantillan/user-info](https://github.com/pablofedericosantillan/user-info)
 
-## What I Like Building
+## 🤝 Conectemos
 
-- Backend APIs
-- Business-rule heavy services
-- Clean TypeScript applications
-- Systems with clear structure, validation, and documentation
-
-## Contact
-
-- GitHub: https://github.com/pablofedericosantillan
+<p align="center">
+  <a href="https://github.com/pablofedericosantillan">
+    <img src="https://img.shields.io/badge/GitHub-pablofedericosantillan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
