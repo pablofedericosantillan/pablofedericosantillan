@@ -27,8 +27,14 @@
 
 ### 🤝 Let's connect
 
-- [LinkedIn](https://www.linkedin.com/in/pablo-santillan/)
-- [GitHub](https://github.com/pablofedericosantillan)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pablo-santillan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Santillan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/pablofedericosantillan">
+    <img src="https://img.shields.io/badge/GitHub-pablofedericosantillan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ### 🧩 What I build
 
