@@ -22,6 +22,15 @@
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,mongodb,jest,swagger,docker,kubernetes,aws,terraform,git,github,vscode&perline=14" alt="Tecnologias y herramientas" />
 </p>
 
+**Stack principal**
+
+- **Lenguajes:** TypeScript, JavaScript
+- **Backend:** Node.js, NestJS, Express
+- **Base de datos:** MongoDB
+- **Testing y docs:** Jest, Swagger / OpenAPI
+- **DevOps:** Docker, Kubernetes, AWS, Terraform
+- **Herramientas:** Git, GitHub, VS Code
+
 ### 🤝 Conectemos en redes
 
 <p align="left">
@@ -47,4 +56,3 @@
 - Arquitecturas mantenibles, separacion por capas y buenas practicas
 - Documentacion tecnica con Swagger/OpenAPI
 - Automatizacion, contenedores e infraestructura moderna
-
